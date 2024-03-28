@@ -1,0 +1,10 @@
+.container {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.items {   
+      padding: 8px;
+      border: 1px solid black;
+      border-radius: 4px;
+              }
